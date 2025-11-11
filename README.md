@@ -31,7 +31,7 @@ L'IA est un assistant, pas un substitut. La responsabilité professionnelle et l
 
 ## La structure d'un prompt : l'assistant expert supervisé
 
-Chaque prompt suit une structure en 8 points qui transforme l'IA en assistant expert :
+Chaque prompt suit une structure en 9 points qui transforme l'IA en assistant expert :
 
 1. **Rôle et contexte** d'intervention
 2. **Glossaire** des termes archivistiques
